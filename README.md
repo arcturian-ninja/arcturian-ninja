@@ -1,8 +1,12 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Michael Mulatya
-![Website](https://img.shields.io/website?label=Website&style=plastic&up_color=blue&up_message=My%20Portfolio&url=https%3A%2F%2Fmmulatya.tech)
+
+I'm a software engineer specializing in JavaScript and PHP. Currently learning frameworks Angular and React to build on my front end development skills.
+I'm looking to join a team of seasoned developers to build amazing products.
+
+I also love design and I'm learning UI and UX design as a hobby.
+
 
 <!--**arcturian-ninja/arcturian-ninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Website](https://img.shields.io/website?label=Website&style=plastic&up_color=blue&up_message=My%20Portfolio&url=https%3A%2F%2Fmmulatya.tech)
 
 Here are some ideas to get you started:
 
