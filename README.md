@@ -1,7 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Michael Mulatya
+![Website](https://img.shields.io/website?label=Website&style=plastic&up_color=blue&up_message=My%20Portfolio&url=https%3A%2F%2Fmmulatya.tech)
 
-<!--
-**arcturian-ninja/arcturian-ninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**arcturian-ninja/arcturian-ninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Website](https://img.shields.io/website?label=Website&style=plastic&up_color=blue&up_message=My%20Portfolio&url=https%3A%2F%2Fmmulatya.tech)
 
 Here are some ideas to get you started:
 
