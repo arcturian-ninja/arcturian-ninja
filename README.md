@@ -2,7 +2,7 @@
 
 ---
 
-I'm a software engineer specializing in JavaScript and PHP. Currently learning frameworks Angular and React to build on my front end development skills.
+I'm a software engineer specializing in JavaScript and PHP. Currently learning frameworks Angular and React to build on my front-end development skills.
 I'm looking to join a team of seasoned developers to build beautiful products with.
 
 I also love design and I'm learning UI/UX design as a hobby.
